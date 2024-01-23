@@ -1,8 +1,8 @@
-Vamos criar juntos um WEB SCRAPER, um robô que consegue extrair informações de uma página HTML, pra você automatizar a coleta de dados de websites de forma eficiente e rápida!
+Vamos turbinar o WEB SCRAPER criado no último vídeo, tornando nossa ferramenta capaz de interagir com a página da web, aguardar carregamento completo incluindo execução de javascript, e mais!
 
-⭐ Você verá como usar a biblioteca AXIOS para baixar o html de uma página, e a CHEERIO para manipular e encontrar elementos dentro do html
+⭐ Você verá como usar a biblioteca PUPPETEER para simular o acesso à página através de um browser de verdade
 
-🎁 Como bônus, ainda verá como expor essa funcionalidade através de uma API, que você pode até pensar em monetizar para fazer dinheiro!
+🔥 O DESAFIO ao final do vídeo traz uma ideia que você pode usar para criar um aplicativo e fazer dinheiro enquanto dorme
 
 ✅ Algumas aplicações:
 
@@ -11,9 +11,9 @@ Vamos criar juntos um WEB SCRAPER, um robô que consegue extrair informações d
 * Automatização de testes de software
 * Agregação de notícias e conteúdo
 
-✅ CÓDIGO FONTE DO VÍDEO
+✅ VÍDEO
 
-* https://github.com/phillippelevidad/phillcode-web-scraper
+* https://youtu.be/pTRDVZeQCbc
 
 ✅ SIGA-ME NAS REDES
 
