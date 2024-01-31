@@ -1,3 +1,5 @@
+[<img src="https://i.ytimg.com/vi/pTRDVZeQCbc/maxresdefault.jpg">](https://www.youtube.com/watch?v=pTRDVZeQCbc "Web Scraper Node JS AVANÇADO #puppeteer")
+
 Vamos turbinar o WEB SCRAPER criado no último vídeo, tornando nossa ferramenta capaz de interagir com a página da web, aguardar carregamento completo incluindo execução de javascript, e mais!
 
 ⭐ Você verá como usar a biblioteca PUPPETEER para simular o acesso à página através de um browser de verdade
